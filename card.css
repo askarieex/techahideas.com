@@ -1,0 +1,12 @@
+.main-div
+{
+  display: inline-flex;
+}
+.card
+{
+  margin-left: 120px;
+}
+.fa-envelope
+{
+  font-size: 30px;
+}
